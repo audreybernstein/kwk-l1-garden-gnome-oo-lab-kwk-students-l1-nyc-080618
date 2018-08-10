@@ -52,4 +52,5 @@ end
 
 # hat_one = GardenGnome.new
 # hat_one.hat_color
+gnawing_nome = GardenGnome.new
 gnawing_gnome.gnaw
