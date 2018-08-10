@@ -1,6 +1,6 @@
 # Code your instances here
 class GardenGnome
-  def initialize(name, age, personality = "evil")
+  def initialize(name, age, personality = "evil", hat_color = "red")
     @name =  name 
   end 
   
@@ -23,5 +23,6 @@ class GardenGnome
   def personality
     @personality
   end
+  
   
   
