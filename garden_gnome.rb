@@ -8,9 +8,9 @@ class GardenGnome
   #   @hat_color = hat_color
   # end 
   
-  # def name 
-  #   @name
-  # end 
+  def name 
+    @name
+  end 
   
   def name=(new_name)
     @name = new_name
