@@ -8,4 +8,4 @@ class GardenGnome
     @name
   end 
   
-  def 
+  def name=
