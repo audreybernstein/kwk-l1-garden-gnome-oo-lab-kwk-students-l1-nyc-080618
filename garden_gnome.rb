@@ -24,7 +24,7 @@ class GardenGnome
     @personality
   end
   
-  hat_one = 
+  hat_one = GardenGnome.new()
   
   
   
