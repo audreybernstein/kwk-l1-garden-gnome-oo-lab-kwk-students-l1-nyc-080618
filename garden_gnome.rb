@@ -37,9 +37,9 @@ class GardenGnome
     @hat_color
   end
   
-  # def gnaw
-  #   return "Gnawing on a tree!!!"
-  # end
+  def gnaw
+    return "Gnawing on a tree!!!"
+  end
   
   # def shout
   #   return "GNARLY!!!"
@@ -52,3 +52,4 @@ end
 
 # hat_one = GardenGnome.new
 # hat_one.hat_color
+gnawing_gnome.gnaw
