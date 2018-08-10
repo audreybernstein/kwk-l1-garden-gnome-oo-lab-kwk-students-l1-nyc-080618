@@ -33,9 +33,9 @@ class GardenGnome
     @personality
   end
   
-  # def hat_one
-  #   @hat_one
-  # end
+  def hat_color
+    @hat_one
+  end
   
   # def hat_one=(hat_one)
   #   @hat_one = hat_one
