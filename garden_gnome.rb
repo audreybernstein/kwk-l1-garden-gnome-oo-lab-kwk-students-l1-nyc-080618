@@ -32,9 +32,9 @@ class GardenGnome
     @gluten_allergy = new_gluten_allergy
   end
   
-  # def personality
-  #   @personality
-  # end
+  def personality
+    @personality
+  end
   
   # def hat_one
   #   @hat_one
