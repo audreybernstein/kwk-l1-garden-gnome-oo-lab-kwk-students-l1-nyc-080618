@@ -20,6 +20,9 @@ class GardenGnome
     @age
   end
   
+hat_one = GardenGnome.new
+hat_one.hat_color
+  
   def age=(new_age)
     @age = new_age
   end 
@@ -35,9 +38,6 @@ class GardenGnome
   def personality
     @personality
   end
-
-  hat_one = GardenGnome.new
-  hat_one.hat_color
   
   def hat_one
     @hat_one
