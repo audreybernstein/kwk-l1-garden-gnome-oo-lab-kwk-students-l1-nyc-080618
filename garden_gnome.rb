@@ -57,3 +57,5 @@ gnawing_gnome = GardenGnome.new
 gnawing_gnome.gnaw
 shouting_gnome = GardenGnome.new
 shouting_gnome.shout
+introducing_gnome = GardenGnome.new
+introducing_gnome.introduce_self
