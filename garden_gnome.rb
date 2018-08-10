@@ -9,4 +9,4 @@ class GardenGnome
   end 
   
   def name=(new_name)
-    
+    @
