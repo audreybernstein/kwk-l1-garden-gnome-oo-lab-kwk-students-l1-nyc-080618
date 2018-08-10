@@ -1,11 +1,8 @@
 # Code your instances here
 class GardenGnome
-  def initialize
-  #   @name =  name 
-  #   @age = age
-  #   @gluten_allergy = gluten_allergy
-  @personality = "evil"
-  #   @hat_color = hat_color
+  def initialize(hat_color)
+    @personality = "evil"
+    @hat_color = hat_color
   end 
   
   def name 
