@@ -24,5 +24,7 @@ class GardenGnome
     @personality
   end
   
+  hat_color
+  
   
   
