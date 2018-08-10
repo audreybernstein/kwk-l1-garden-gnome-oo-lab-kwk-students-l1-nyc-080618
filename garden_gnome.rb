@@ -34,7 +34,7 @@ class GardenGnome
   end
   
   def hat_color
-    @hat_one
+    @hat_color
   end
   
   # def hat_one=(hat_one)
