@@ -24,7 +24,7 @@ class GardenGnome
     @personality
   end
   
-  hat_one = GardenGnome.new()
+  hat_one = GardenGnome.new(name, age, personality, hat_color)
   
   hat_one.hat_color
   
