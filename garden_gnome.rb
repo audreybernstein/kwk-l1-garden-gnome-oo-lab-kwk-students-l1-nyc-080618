@@ -26,6 +26,6 @@ class GardenGnome
   
   hat_one = GardenGnome.new()
   
-  hat_one.
+  hat_one.hat_color
   
   
