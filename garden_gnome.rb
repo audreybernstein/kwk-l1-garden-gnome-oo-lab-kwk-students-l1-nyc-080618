@@ -20,9 +20,6 @@ class GardenGnome
     @age
   end
   
-hat_one = GardenGnome.new
-hat_one.hat_color
-  
   def age=(new_age)
     @age = new_age
   end 
@@ -59,4 +56,7 @@ hat_one.hat_color
     return "Hello humans, my name is #{name}, I am #{age} years old, and you'll rue the day you crossed me!"
   end
 end
+
+hat_one = GardenGnome.new
+hat_one.hat_color
 
