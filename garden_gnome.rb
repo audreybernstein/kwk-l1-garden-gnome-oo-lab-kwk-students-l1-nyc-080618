@@ -31,7 +31,7 @@ class GardenGnome
   def personality
     @personality
   end
- 
+end 
   hat_one = GardenGnome.new
   hat_one.hat_color
   
